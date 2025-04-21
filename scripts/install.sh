@@ -25,6 +25,7 @@ install htop
 install tree
 install vim
 install wget
+install libreoffice
 
 # Run all scripts in programs/
 for f in programs/*.sh; do bash "$f" -H; done
